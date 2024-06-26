@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "name": "Quiz Name",
+  "questions": [
+    {
+      "question": "Find the odd one among the following",
+      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Find the odd one among the following",
+      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Find the odd one among the following",
+      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Find the odd one among the following",
+      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Find the odd one among the following",
+      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "answerIndex": 1
+    }
+  ],
+  "isCompleted": 0
+}
