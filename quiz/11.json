@@ -3,28 +3,28 @@
   "name": "Quiz Name",
   "questions": [
     {
-      "question": "Find the odd one among the following",
-      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "question": "Pick the odd one among the following",
+      "options": ["⠉⠁⠞ ", "⠉⠁⠗", "⠙⠕⠛", "⠑⠇⠑⠏⠓⠁⠝⠞"],
       "answerIndex": 2
     },
     {
-      "question": "Find the odd one among the following",
-      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "question": "Find the word with more than three letters",
+      "options": ["⠉⠁⠞", "⠙⠕⠛", "⠃⠕⠕⠅", "⠃⠁⠞"],
       "answerIndex": 1
     },
     {
-      "question": "Find the odd one among the following",
-      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "question": "Find the word that describes something you wear",
+      "options": ["⠃⠕⠕⠅", "⠏⠑⠝", "⠎⠓⠊⠗⠞", "⠓⠕⠥⠎⠑"],
       "answerIndex": 3
     },
     {
-      "question": "Find the odd one among the following",
-      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "question": "Which of the following words that is a number",
+      "options": ["⠺⠁⠞⠑⠗", "⠁⠏⠏⠇⠑", "⠎⠊⠭", "⠎⠓⠊⠗⠞"],
       "answerIndex": 0
     },
     {
-      "question": "Find the odd one among the following",
-      "options": ["⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞", "⠛⠕⠁⠞"],
+      "question": "Find the word that describes something you eat",
+      "options": ["⠎⠉⠓⠕⠕⠇", "⠓⠕⠥⠎⠑", "⠁⠏⠏⠇⠑", "⠋⠇⠕⠺⠑⠗"],
       "answerIndex": 1
     }
   ],
